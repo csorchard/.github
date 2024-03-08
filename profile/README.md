@@ -29,5 +29,5 @@
 
 ## Data Structures Usage in Real-World Projects
 - HyperLogLog: ApproxCount SQL Function
-- Count Min Sketch: Query Engine
+- Count Min Sketch: Frequency Estimation Optimizer
 - 
