@@ -3,7 +3,7 @@
 #### Concurrent
 - SkipList
 - Red Black Tree
-- BitMap
+- Roaring BitMap
 - HashMap
 - BTree
 - CoW Btree
