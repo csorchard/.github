@@ -9,12 +9,14 @@
 - CoW Btree
 
 
-#### Approximate
+#### Approximate (to organize into hashing, filter, etc)
 - Bloom Filter
 - Count Min Sketch
 - Cuckoo filter
 - HyperLogLog
 - Zone Map
+- Reservoir Sampling
+- Sliding window
 
 #### Distributed Systems
 - Consistent Hash
