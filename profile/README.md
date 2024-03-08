@@ -1,13 +1,21 @@
 ## Data Structures
 
 #### Concurrent
-- SkipList
 - Red Black Tree
 - Roaring BitMap
 - HashMap
+
+
+#### Storage Engine
 - BTree
 - CoW Btree
-
+- Wal
+- LSM Tree
+- Memtable using Skip List
+- Merkal Tree
+- B Epsilon Tree
+- K-D tree
+- Z-Index: storage optimization
 
 #### Approximate (to organize into hashing, filter, etc)
 - Bloom Filter
