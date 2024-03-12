@@ -4,6 +4,7 @@
 - Red Black Tree
 - Roaring BitMap
 - HashMap
+- Arena based skip list
 
 
 #### Storage Engine
