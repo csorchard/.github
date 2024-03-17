@@ -18,6 +18,12 @@
 - K-D tree
 - Z-Index: storage optimization
 
+#### Hashing
+- Consistent Hashing:
+- Range Partitioning
+- Hash Index: In database, CXL
+- Cuckoo Hash
+
 #### Approximate (to organize into hashing, filter, etc)
 - Bloom Filter
 - Count Min Sketch
