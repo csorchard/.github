@@ -1,5 +1,4 @@
 ## Data Structures
-> DB scale: single node (@dborchard), multi-node (@dsorchard), multi-core (@csorchard)
 
 #### Concurrent
 - Red Black Tree
