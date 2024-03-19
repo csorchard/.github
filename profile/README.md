@@ -48,4 +48,6 @@
 ## Data Structures Usage in Real-World Projects
 - HyperLogLog: ApproxCount SQL Function
 - Count Min Sketch: Frequency Estimation Optimizer
-- 
+
+#### Reading
+- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0123705916)
