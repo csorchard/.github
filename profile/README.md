@@ -49,4 +49,10 @@
 - Count Min Sketch: Frequency Estimation Optimizer
 
 #### Reading
+- [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0123705916)
+
+#### Read
+- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Good book for concurrency patterns and refreshing mechanical sympathy (last 10 chapters).
+- [Algorithms for Modern Hardware - Partially read](https://en.algorithmica.org/hpc/): Talk about SIMD, CPU Cache, External Memory, Instruction Level Parallelism.
+
