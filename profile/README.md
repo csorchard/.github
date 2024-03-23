@@ -54,6 +54,6 @@
 
 #### Read
 - [Advanced Algorithms and Data Structures](https://a.co/d/3tsZk96): BitMap, BloomFilter, LFU, LRU
-- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Good book for concurrency patterns and refreshing mechanical sympathy (last 10 chapters).
+- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Concurrency patterns, Mechanical sympathy (last 10 chapters).
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)[Partially read]: Talk about SIMD, CPU Cache, External Memory, Instruction Level Parallelism.
 
