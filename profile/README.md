@@ -6,7 +6,7 @@
 
 #### Core Data Structure
 - Regular Data structure: List, Stack, Queue, Priority Queue (taken from gods)
-- Systems Data structure:
+- [Systems Data structure](https://github.com/csorchard/sds):
   - Hash-Based: Bloom Filter, Count Min Sketch, HyperLogLog
   - Sorted: BTree, Binary Search Tree, Treap
   - Distributed Hash: Consistent Hashing, ChordDHT, Range Based Partitioning, Extendable Hashing
