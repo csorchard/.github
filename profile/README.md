@@ -69,7 +69,7 @@
   
 #### Reading
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
-- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0123705916)
+- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Maurice-Herlihy/dp/0123705916): Concurrent Data Structures.
 
 #### Read
 - [Advanced Algorithms and Data Structures](https://a.co/d/3tsZk96): BitMap, BloomFilter, LFU, LRU
