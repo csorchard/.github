@@ -53,7 +53,7 @@
 </details>
 
 ## 🌳 The Tree
-> Pick your favorite distributed database/system and shrink it.
+> Pick your favorite distributed storage engine and explore the concurrency features.
 
 <details>
 <summary>Read More</summary>
