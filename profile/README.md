@@ -84,6 +84,9 @@
 <details>
 <summary>Read More</summary>
 
+#### Teachings
+- [Method for Implementing lock-free shared data structure](https://www.youtube.com/watch?v=MK1ZqqW-9gM) - Coordination Technique, Large Objects
+
 
 </details>
 
