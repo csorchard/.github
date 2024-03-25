@@ -24,7 +24,7 @@
   - Skip List
   - BTree
  
-#### Profiling Tools
+#### Performance engineering tools
 - Heap Dump
 - Trace
 - Jmeter, YCSB
@@ -32,6 +32,8 @@
 - Heap View
 - Write Benchmark
 - Lotsaa
+- GC frequency, threshold
+- Git Bisect
 
 #### Advanced Data Structures
 - Arena based skip list
