@@ -5,7 +5,10 @@
 <summary>Read More</summary>
 
 #### Core Data Structure
-- Regular Data structure: List, Stack, Queue, Priority Queue (taken from gods)
+- Regular Data structure
+  - Randomized: Quick Sort, Treap, SkipList
+  - Misc: List, Stack, Queue, Priority Queue (taken from gods)
+  - Sorted: Binary Search Tree
 - [Systems Data structure](https://github.com/csorchard/sds)
   - Hash-Based: Probing vs Chaining in Hashmap
     - Approximate: Bloom Filter, Count Min Sketch, HyperLogLog
@@ -17,6 +20,9 @@
   - Stream: Sliding window
   - Difference: Merkal Tree
   - Time: Hashed Wheel Timer
+- Concurrent Data Structures:
+  - Skip List
+  - BTree
  
 #### Profiling Tools
 - Heap Dump
