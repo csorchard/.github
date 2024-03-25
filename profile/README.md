@@ -98,11 +98,10 @@
 ## 🥭 The Fruit
 > Mark your achievements.
 
-#### Core Implementations
-- [Kmeans++ & Elkan's Kmeans](https://github.com/arjunsk/kmeans): Library extracted from MatrixOrigin's IVFFLAT index.
-
-
 <details>
 <summary>Read More</summary>
+
+#### Core Implementations
+- [Kmeans++ & Elkan's Kmeans](https://github.com/arjunsk/kmeans): Library extracted from MatrixOrigin's IVFFLAT index.
 
 </details>
