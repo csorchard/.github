@@ -7,10 +7,17 @@
 #### Core Data Structure
 - Regular Data structure: List, Stack, Queue, Priority Queue (taken from gods)
 - [Systems Data structure](https://github.com/csorchard/sds):
-  - Hash-Based: Bloom Filter, Count Min Sketch, HyperLogLog
-  - Sorted: BTree, Binary Search Tree, Treap
-  - Distributed Hash: Consistent Hashing, ChordDHT, Range Based Partitioning, Extendable Hashing
-
+  - Hash-Based: Probing vs Chaining in Hashmap
+    - Approximate: Bloom Filter, Count Min Sketch, HyperLogLog
+    - Rebalancing Map: Consistent Hashing, ChordDHT, Range Based Partitioning, Extendable Hashing
+    - Hash Functions: Cuckoo Hash, Murmur Hash,
+  - Sorted: BTree, Binary Search Tree, Treap,  Red Black Tree, B Epsilon Tree
+  - Multi Dimension: KD Tree, Z-Index, Hilbert Curve
+  - Sampling: Reservoir Sampling
+  - Stream: Sliding window
+  - Difference: Merkal Tree
+  - Time: Hashed Wheel Timer
+ 
 #### Profiling Tools
 - Heap Dump
 - Trace
@@ -18,29 +25,10 @@
 - VRPC (vector clock)
 - Heap View
 
-#### Misc
-- Tree: Red Black Tree,
-- Hash:
-- Storage Engine: WAL, Btree, CoW Btree, LSM Tree
-- Memtable using Skip List
-- Merkal Tree
-- B Epsilon Tree
-- K-D tree
-- Z-Index: storage optimization
-- Cuckoo filter
-- Reservoir Sampling
-- Sliding window
-
-
 #### Advanced Data Structures
 - Arena based skip list
 - Roaring BitMap
 - Zone Map
-
-
-#### Distributed Systems
-- Consistent Hash
-- Hash Wheel Timer
 
 </details>
 
@@ -52,10 +40,13 @@
 
 #### From MatrixOrigin
 - Mpool
-- Off Heap Cache
 - Vector Operations
 - HyperLogLog: ApproxCount SQL Function
 - Count Min Sketch: Frequency Estimation Optimizer
+
+#### Misc
+- Storage Engine: WAL, Btree, CoW Btree, LSM Tree
+- Memtable using Skip List
 
 </details>
 
