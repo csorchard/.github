@@ -53,10 +53,13 @@
 </details>
 
 ## 🌳 The Tree
-> Pick your favorite distributed storage engine and explore the concurrency features.
+> Pick a favorite storage engine/main memory system and shrink.
 
 <details>
 <summary>Read More</summary>
+- Dgraph ristretto: 
+- Dgraph badger:  Memory allocation part in pkg z.
+- BigCache: 
 
 </details>
 
