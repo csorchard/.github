@@ -24,6 +24,8 @@
 - Jmeter, YCSB
 - VRPC (vector clock)
 - Heap View
+- Write Benchmark
+- Lotsaa
 
 #### Advanced Data Structures
 - Arena based skip list
