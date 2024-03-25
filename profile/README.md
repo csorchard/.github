@@ -35,6 +35,7 @@
 - GC frequency, threshold
 - Git Bisect
 - Explain Analyze
+- OpenTelemetry Trace
 
 #### Advanced Data Structures
 - Arena based skip list
