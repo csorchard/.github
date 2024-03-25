@@ -34,6 +34,7 @@
 - Lotsaa
 - GC frequency, threshold
 - Git Bisect
+- Explain Analyze
 
 #### Advanced Data Structures
 - Arena based skip list
