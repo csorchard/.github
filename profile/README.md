@@ -52,10 +52,9 @@
 <summary>Read More</summary>
 
 #### From MatrixOrigin
-- Mpool
-- Vector Operations
-- HyperLogLog: ApproxCount SQL Function
-- Count Min Sketch: Frequency Estimation Optimizer
+- [Systems Data Structures Usage](https://github.com/csorchard/sds_use)
+  - HyperLogLog: Used to find NDV before writing segment meta header
+  - Bloom Filter: Used for fast range scan through blocks
 
 #### Misc
 - Storage Engine: WAL, Btree, CoW Btree, LSM Tree
