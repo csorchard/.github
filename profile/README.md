@@ -55,6 +55,9 @@
 - [Systems Data Structures Usage](https://github.com/csorchard/sds_use)
   - HyperLogLog: Used to find NDV before writing segment meta header
   - Bloom Filter: Used for fast range scan through blocks
+- [MatrixOrigin Join](https://github.com/dborchard/mojoin.git)
+  - Hash Map
+  - Memory Pool
 
 #### Misc
 - Storage Engine: WAL, Btree, CoW Btree, LSM Tree
