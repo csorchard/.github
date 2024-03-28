@@ -58,6 +58,7 @@
 - [MatrixOrigin Join](https://github.com/dborchard/mojoin.git)
   - Hash Map
   - Memory Pool
+  - Reservoir Sampling
 
 #### Misc
 - Storage Engine: WAL, Btree, CoW Btree, LSM Tree
